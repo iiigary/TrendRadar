@@ -1,113 +1,92 @@
-胖东来
-于东来
 
-DeepSeek
-梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
+AI
 人工智能
+AI大模型
++发布 !广告 !营销话术 !培训
 
-自动驾驶
+OpenAI
+GPT
+ChatGPT
++更新
 
-机器人
+Anthropic
+Claude
++升级
 
-国产
-中国
+Google
+Gemini
+DeepMind
++research +model
 
-美国
-日本
-韩国
 
-芯片
-光刻机
+VR
+AR
+XR
++发布 !游戏试玩 !广告
 
-科技
+虚拟现实
+混合现实
++技术 !体验馆
 
-核能
+Apple Vision Pro
+Meta Quest
++更新 +功能
 
-水电站
-雅鲁藏布江
 
-新质生产力
+物理治疗
+物理治疗师
+PT
++研究 +病例 !美容 !整骨 !徒手整形
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+
+手法治疗
+关节松动
+筋膜
++技术 !SPA !推拿店
+
+运动损伤
+康复
+运动康复
++研究 +预防
+
+ACL
+前交叉
+膝关节
++injury +return to play !手术广告
+
+跟腱炎
+髌腱炎
+肩袖
++训练 +protocol
+
+脑震荡
+concussion
+冰球撞击
++guideline
+
+冰球
+国家队
+U18
+U20
+世锦赛
++比赛 !门票 !直播带货 !周边
+
+NHL
+KHL
+IIHF
+
+冬奥会
+中国冰球
++训练 !演出 !综艺
+
+A股
+港股
+上证
+深证
++走势 !预测
+
+新能源
+电动车
+比亚迪
+特斯拉
++销量 !自媒体
